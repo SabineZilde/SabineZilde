@@ -8,9 +8,15 @@ My name is Sabīne. I am a graphic designer with a passion for web development.
 
 ***
 
+## Things I code with
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,regex,styledcomponents,svg,vscode,atom,git,github,react,redux,bootstrap,tailwind,materialui,mongodb,docker,mysql,nodejs,apollo)](https://skillicons.dev)
 
+## Things I design with
+
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,pr,figma)](https://skillicons.dev)
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabineZilde&layout=compact)](https://github.com/SabineZilde/github-readme-stats) 
 
