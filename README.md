@@ -10,7 +10,7 @@ My name is Sabīne. I am a graphic designer with a passion for web development.
 
 #### Things I code with:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,regex,styledcomponents,svg,vscode,atom,git,github,react,redux,bootstrap,tailwind,materialui,mongodb,docker,mysql,nodejs,apollo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,regex,styledcomponents,svg,vscode,atom,git,github,react,redux,bootstrap,tailwind,materialui,mongodb,docker,mysql,postgres,nodejs,apollo)](https://skillicons.dev)
 
 #### Things I design with:
 
