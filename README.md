@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sabīne. I am a graphic designer with a passion for web development.
+My name is Sabīne. I am an AdOps Trafficker with a passion for Web Development.
 
 - 🔭 I’m currently working on my portfolio website project.
 - 🌱 I’m currently learning to be patient.
