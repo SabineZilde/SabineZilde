@@ -20,7 +20,7 @@ My name is Sabīne. I am an AdOps Trafficker with a passion for Web Development.
 
 #### Some stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabineZilde&layout=compact)](https://github.com/SabineZilde/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabineZilde&layout=merko)](https://github-readme-stats.vercel.app) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SabineZilde&theme=gruvbox_duo)](https://git.io/streak-stats)
 
