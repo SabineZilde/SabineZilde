@@ -22,7 +22,7 @@ My name is Sabīne. I am an AdOps Trafficker with a passion for Web Development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabineZilde&layout=compact)](https://github.com/SabineZilde/github-readme-stats) 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SabineZilde&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SabineZilde&theme=gruvbox_duo)](https://git.io/streak-stats)
 
 <!--
 **SabineZilde/SabineZilde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
