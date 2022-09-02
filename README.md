@@ -6,8 +6,6 @@ My name is Sabīne. I am an AdOps Trafficker with a passion for Web Development.
 - 🌱 I’m currently learning Node.js;
 - ⚡ Fun fact: I play flute in a wind band.
 
-![Alt text](https://www.codewars.com/users/eniibaS/badges/micro "Codewars badge")
-
 ***
 
 #### Things I code with:
@@ -21,6 +19,8 @@ My name is Sabīne. I am an AdOps Trafficker with a passion for Web Development.
 ---
 
 #### Some stats:
+
+![Alt text](URL:https://www.codewars.com/users/eniibaS/badges/large "Codewars badge")
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabineZilde&layout=compact&theme=react)](https://github-readme-stats.vercel.app) 
 
