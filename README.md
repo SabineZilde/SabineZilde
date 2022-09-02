@@ -2,9 +2,11 @@
 
 My name is Sabīne. I am an AdOps Trafficker with a passion for Web Development.
 
-- 🔭 I’m currently working on my portfolio website project.
-- 🌱 I’m currently learning to be patient.
+- 🔭 I’m currently working on my portfolio website project;
+- 🌱 I’m currently learning Node.js;
 - ⚡ Fun fact: I play flute in a wind band.
+
+![Alt text](https://www.codewars.com/users/eniibaS/badges/micro "Codewars badge")
 
 ***
 
@@ -37,4 +39,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img height="170em" align="left" alt="Github Lnguages" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=linanekrasova&card&colormode=dark_mode" />
 -->
