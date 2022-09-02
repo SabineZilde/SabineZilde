@@ -20,7 +20,7 @@ My name is Sabīne. I am an AdOps Trafficker with a passion for Web Development.
 
 #### Some stats:
 
-![Alt text](URL:https://www.codewars.com/users/eniibaS/badges/large "Codewars badge")
+[![Alt text](URL:https://www.codewars.com/users/eniibaS/badges/large "Codewars badge")
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabineZilde&layout=compact&theme=react)](https://github-readme-stats.vercel.app) 
 
