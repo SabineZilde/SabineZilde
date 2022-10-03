@@ -3,7 +3,7 @@
 My name is Sabīne. I am an AdOps Trafficker with a passion for Web Development.
 
 - 🔭 I’m currently working on my portfolio website project;
-- 🌱 I’m currently learning Node.js;
+- 🌱 I’m currently learning PHP;
 - ⚡ Fun fact: I play flute in a wind band.
 
 ***
