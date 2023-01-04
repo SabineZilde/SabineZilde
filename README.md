@@ -8,7 +8,7 @@ My name is Sabīne. I am an AdOps Trafficker with a passion for Web Development.
 
 ***
 
-#### Things I code with:
+#### Things I have coded with:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,regex,styledcomponents,svg,vscode,atom,git,github,react,redux,bootstrap,tailwind,materialui,mongodb,docker,mysql,postgres,nodejs,apollo)](https://skillicons.dev)
 
