@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sabīne. I am an AdOps Trafficker with a passion for Web Development.
+My name is Sabīne. I had a passion for Web Development. Below, you can see the list of tools and technologies I worked with and felt confident about some time ago. This is not your usual developer portfolio. I am keeping this up more like a reminder for myself of how far I used to be on my learning path.
 
 ***
 
