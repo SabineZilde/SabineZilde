@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sabīne. I had a passion for Web Development. Below, you can see the list of tools and technologies I worked with and felt confident about some time ago. This is not your usual developer portfolio. I am keeping this up more like a reminder for myself of how far I used to be on my learning path.
+I'm not working on any new projects at the moment. Below, you can see the list of tools and technologies I covered about some time ago. 
 
 ***
 
