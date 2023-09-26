@@ -1,20 +1,25 @@
 ### Hi there 👋
 
-I'm not working on any new projects at the moment. Below, you can see the list of tools and technologies I covered about some time ago. 
+This is my README. I'm not working on any new projects at the moment. Below, you can see the list of software, tools, and technologies I covered and worked with about some time ago. 
 
 ***
 
-#### Things I have coded with:
+#### Development Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,regex,styledcomponents,svg,vscode,atom,git,github,react,redux,bootstrap,tailwind,materialui,mongodb,docker,mysql,postgres,nodejs,apollo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,atom,git,github)](https://skillicons.dev)
 
-#### Things I design with:
+#### Design and Graphic Software:
 
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,pr,figma)](https://skillicons.dev)
 
+#### Programming Languages, Technologies, etc.:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,regex,styledcomponents,svg,react,redux,bootstrap,tailwind,materialui,mongodb,docker,mysql,postgres,nodejs,apollo)](https://skillicons.dev)
+
+
 ---
 
-#### Some stats:
+#### I like statistics as well, so here are some:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabineZilde&layout=compact&theme=react)](https://github-readme-stats.vercel.app) 
 
