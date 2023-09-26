@@ -25,7 +25,7 @@ This is my README. I'm not working on any new projects at the moment. Below, you
 
 ![Alt text](https://www.codewars.com/users/eniibaS/badges/large "Codewars badge")
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SabineZilde&theme=gruvbox-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SabineZilde)](https://git.io/streak-stats)
 
 <!--
 **SabineZilde/SabineZilde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
