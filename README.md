@@ -19,7 +19,7 @@ This is my README. I'm not working on any new projects at the moment. Below, you
 
 ---
 
-#### I like statistics as well, so here are some:
+#### Data is beautiful:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabineZilde&layout=compact&theme=react)](https://github-readme-stats.vercel.app) 
 
